@@ -1,0 +1,21 @@
+.bepro_listing_realestate_section{-moz-column-count:2; -webkit-column-count:2; column-count:2;}
+.shortcode_results_2 .bepro_result_sold{
+background: transparent url(../images/bepro_listings_realestate_sold.png) no-repeat 0 0;
+height: 75px;
+width: 100px;
+float: left;
+left: 0;
+margin: -20px 0 0 -26%;
+opacity: .99;
+background-size: 105px;
+}
+shortcode_results_1 .bepro_result_sold{
+background: transparent url(../images/bepro_listings_realestate_sold.png) no-repeat 0 0;
+height: 75px;
+width: 100px;
+float: left;
+left: 0;
+margin: -52px 0 0 -6%;
+opacity: .99;
+background-size: 105px;
+}
