@@ -8,24 +8,24 @@ Stable tag: 1.0.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-This plugin includes the tools needed to list business and staff related listings.
+This plugin includes the tools needed to list Real Estate Related information like aparements, houses, etc. Requires BePro Listings
 
 == Description ==
-If you like our listing features, then try this Realestate Listings solution for wordpress. Built on the foundation of our popular plugin BePro Listings, this addon gives you all you need to manage a realestate website.
+If you like our listing features, then try this Realestate Listings solution for wordpress. Built on the foundation of our popular plugin BePro Listings, this addon gives you all you need to manage a Real Estate website.
 
 Requires BePro Listings. Download and install BePro Listings here on wordpress.org
 
-- wordpress.org/plugins/bepro-listings/
+- http://wordpress.org/plugins/bepro-listings/
 
 [BePro Listings Realestate](http://www.beprosoftware.com/shop/bepro-listings-realestate/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
 
 = What you get =
 
-Users will be able to view Realestate related information like:
+You get all of the great features packaged with BePro Listings like, ajax search/filter, galleries, categories, google maps, and lots more. With this specific addon, you can also manage Real Estate specific information:
 
-	1.# of rooms, # of bathrooms, # of parking spots
-	2.Sq Foot
-	3.Status (sold, Sublet, for rent, for sale)
+	1.Show # of rooms, # of bathrooms, # of parking spots and more
+	2.Show Status (sold, Sublet, for rent, for sale)
+	3.Easily edit this information from the admin
 
 = How it Works =
 
@@ -48,21 +48,23 @@ Remember that this solution works with all of the BePro Listings addons. We espe
 
 == Installation ==
 
-* Download the BePro Listings
+* Download BePro Listings
 
 * Dowanload BePro Listings Real Estate
 
 * Use shortcodes or widgets
 
-* Re-save your current permalink settings
-
 == Frequently Asked Questions ==
 
+= Does this require BePro Listings? =
 
+yes
 
 
 == Screenshots ==
 
+1. Real Estate details on Listing page
+2. Edit Real Estate details in admin
 
 
 == Changelog ==
