@@ -1,7 +1,7 @@
 === BePro Listings Real Estate ===
 Contributors: BeyondPrograms
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@beprosoftware.com&item_name=Donation+for+BePro+Listings
-Tags: agent, real estate, directory, realestate, apartment, condo, house, sale, realty, property, rent, broker, bepro listings
+Tags: agency, agent, apartment,broker, bepro listings, condo, directory, google, house, home, map,  mortgage, plugin, property, rent, realty, realtor, realestate, real estate, sale, search, sell, showcase
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 1.0.2
