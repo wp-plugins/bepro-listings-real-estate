@@ -8,7 +8,7 @@ Stable tag: 1.0.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Includes the tools needed to list Real Estate Related information like aparements, houses, & other properties. Requires BePro Listings
+List Real Estate Related information for aparements, houses, or other properties. Requires BePro Listings which provides, google maps, ajax search filter, and over 14 addons
 
 == Description ==
 Google Maps, ajax search filter, **Galleries**, and front end upload are a small subset of the plethora of features offered with the base 100% FREE BePro Listings plugin. This addon introduces **Real Estate** focused information. This combination guarantees a Realestate focused **directory listings** experience for your customers, allowing you to manage and feature your Real Estate inventory.
@@ -31,7 +31,7 @@ This effectively makes the entire listings experience focused on Real Estate inf
 
 = What you Dont get =
 
-There are **no montly fees** with this setup. There is also **no MLS**, **RETS**, or any 3rd party integration. This is a simple way to add Real Estate specific information to the, search, filter, google maps, and other features which are already offered by **BePro Listings** for FREE
+There are **no montly fees** with this setup. There is also **no MLS**, **RETS**, **IDX**, or any 3rd party integration. This is a simple way to add Real Estate specific information to the, search, filter, google maps, and other features which are already offered by **BePro Listings** for FREE
 
 This is a major difference that sets us apart from other Real Estate directory plugins. Neither BePro Listings or any of its addons require a monthly fee from you. Our team believes that there is a large population of users who need standalone solutions like ours and we will continue to support that market.
 
