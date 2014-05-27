@@ -19,6 +19,10 @@ Requires BePro Listings WHICH IS 100% FREE. Download and install it here on word
 
 [BePro Listings Realestate](http://www.beprosoftware.com/shop/bepro-listings-realestate/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
 
+= INTRO VIDEO =
+
+[youtube http://www.youtube.com/watch?v=D5YpZX0go88&hd=1]
+
 = What you get =
 
 You get all of the great features packaged with BePro Listings. In addition, this specific addon, allows you to also manage Real Estate specific information:
