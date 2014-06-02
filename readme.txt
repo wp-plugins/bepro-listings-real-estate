@@ -8,12 +8,12 @@ Stable tag: 1.0.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-List Real Estate Related information for aparements, houses, or other properties. Requires BePro Listings which provides, google maps, ajax search filter, and over 14 addons
+Real Estate Directory for aparements, houses, or other properties. Requires BePro Listings which provides, google maps, ajax search filter, and lots more
 
 == Description ==
 Google Maps, ajax search filter, **Galleries**, and front end upload are a small subset of the plethora of features offered with the base 100% FREE BePro Listings plugin. This addon introduces **Real Estate** focused information. This combination guarantees a Realestate focused **directory listings** experience for your customers, allowing you to manage and feature your Real Estate inventory.
 
-Requires BePro Listings WHICH IS 100% FREE. Download and install it here on wordpress.org
+Requires BePro Listings which is 100% FREE. Download and install it here on wordpress.org
 
 - http://wordpress.org/plugins/bepro-listings/
 
@@ -31,7 +31,7 @@ You get all of the great features packaged with BePro Listings. In addition, thi
 	2.Show Status (sold, Sublet, for rent, for sale)
 	3.Easily edit this information from the admin
 
-This effectively makes the entire listings experience focused on Real Estate information. Remember, since BePro Listings already features, cost, categories, and other data points, you have everything needed to professionally present your **property** inventory.
+This effectively makes the listings experience focused on Real Estate information. Remember, since BePro Listings already features, cost, categories, featured banner and other data points, you have everything needed to professionally present your **property** inventory.
 
 = What you Dont get =
 
@@ -41,7 +41,9 @@ This is a major difference that sets us apart from other Real Estate directory p
 
 = How it Works =
 
-Realestate details are displayed on the item page. The integration is seamless and guarantees a realestate focused listings experience. Manage the Real Estate details form the edit listing admin page. Items with no value are labelled N/A. 
+BePro Listings has a growing list of over 14 addons. Its designed to simulate any directory. Plugins like this Real Estate focused addon, tie into the various BePro Listings features. The resulting integration is seamless and guarantees a realestate focused listings experience. 
+
+Realestate details are displayed on the item page. Manage the Real Estate details form the edit listing admin page. Items with no value are labelled as N/A on the front end. 
 
 
 = Upgrades =
