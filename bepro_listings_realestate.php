@@ -3,7 +3,7 @@
 Plugin Name: BePro Listings Real Estate
 Plugin Script: bepro_listings_realestate.php
 Plugin URI: http://www.beprosoftware.com/shop
-Description: Everything needed to create a Realestate site using BePro Listings
+Description: Everything needed to create a Realestate site. Requires BePro Listings
 Version: 1.0.2
 License: Commercial
 Author: BePro Software Team
