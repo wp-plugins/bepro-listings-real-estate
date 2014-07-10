@@ -8,7 +8,7 @@ Stable tag: 1.0.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-Real Estate Directory for aparements, houses, or other properties. Requires BePro Listings which provides, google maps, ajax search filter, and more
+Real Estate Directory for apartments, houses, or other property. Requires BePro Listings which provides, google maps, ajax search filter, and more
 
 == Description ==
 This is an addon for "BePro Listings". Its sole purpose is to introduce **Real Estate** property details to listings. It builds upon the already provided BePro Lisitngs foundation which includes, Google Maps, ajax search filter, **Galleries**, paid listings and front end upload. This combination guarantees a Realestate focused directory listings experience for your customers, allowing you and your **Real Estate agents** to manage and feature your inventory.
