@@ -11,9 +11,9 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Real Estate Directory for aparements, houses, or other properties. Requires BePro Listings which provides, google maps, ajax search filter, and more
 
 == Description ==
-Google Maps, ajax search filter, **Galleries**, paid listings and front end upload are a small subset of the plethora of features offered with the base 100% FREE BePro Listings plugin. This addon introduces **Real Estate** property focused information. This combination guarantees a Realestate focused **directory listings** experience for your customers, allowing you to manage and feature your Real Estate inventory.
+This is an addon for "BePro Listings". Its sole purpose is to introduce **Real Estate** property details to listings. It builds upon the already provided BePro Lisitngs foundation which includes, Google Maps, ajax search filter, **Galleries**, paid listings and front end upload. This combination guarantees a Realestate focused directory listings experience for your customers, allowing you and your **Real Estate agents** to manage and feature your inventory.
 
-Requires BePro Listings which is 100% FREE. Download and install it here on wordpress.org
+Download and install BePro Listings which is 100% FREE. 
 
 - http://wordpress.org/plugins/bepro-listings/
 
@@ -23,13 +23,6 @@ Requires BePro Listings which is 100% FREE. Download and install it here on word
 
 [youtube http://www.youtube.com/watch?v=D5YpZX0go88&hd=1]
 
-= Easy Setup (Just one and done) =
-
-1. Put this shortcode [bl_all_in_one] in any page or post. Try [bl_all_in_one l_type=a4] to remove the map
-2. Confirm "Ajax Page" is selected on the BePro Listings admin page, for the option "how links open".
-
-These all in one shortcodes are made for novices and those that want a quick test. Each feature has its own shortcode with options and they are all detailed in the documentation link above.
-
 = WHAT YOU GET =
 
 You get all of the great features packaged with BePro Listings. In addition, this specific addon, allows you to also manage Real Estate specific information:
@@ -38,7 +31,7 @@ You get all of the great features packaged with BePro Listings. In addition, thi
 	2.Show Status (sold, Sublet, for rent, for sale)
 	3.Easily edit this information from the admin
 
-This effectively makes the listings experience focused on Real Estate information. Remember, since BePro Listings already features, cost, categories, featured banner and other data points, you have everything needed to professionally present your **property** inventory.
+This effectively makes the listings experience focused on Real Estate information. Remember, since BePro Listings already features, cost, categories, featured listings and other data points, you have everything needed to professionally present your **property** inventory.
 
 = WHAT YOU DONT GET =
 
@@ -48,13 +41,13 @@ This is a major difference that sets us apart from other Real Estate directory p
 
 = HOW IT WORKS =
 
-BePro Listings has a growing list of over 17 addons. Its designed to simulate any directory. Plugins like this Real Estate focused addon, tie into various BePro Listings features. The resulting integration is seamless and guarantees a realestate focused listings experience. 
+BePro Listings has a growing list of over 18 addons. Its designed to simulate any directory. Plugins like this Real Estate focused addon, tie into various BePro Listings features. The resulting integration is seamless and guarantees a realestate focused listings experience. 
 
 Once you install this addon, realestate property details are displayed on the item page. Manage the Real Estate details form the edit listing admin page. Items with no value are labelled as N/A on the front end. 
 
 = UPGRADES =
 
-There is an upgrade to this plugin on our website. With the upgrade, you are able to 
+There is an upgrade for this plugin on our website. With the upgrade, you are able to 
 
 	1. Search & filter listings by Real Estate criteria
 	2. Visible banner for sold listings
@@ -83,11 +76,11 @@ Remember that this solution works with all of the BePro Listings addons. We espe
 
 yes
 
-= Can i use other BePro Listings addons? =
+= Can I use other BePro Listings addons? =
 
 yes
 
-= Can i use other BePro Listings shortcodes? =
+= Can I use other BePro Listings shortcodes? =
 
 yes
 
