@@ -1,7 +1,7 @@
 === BePro Listings Real Estate ===
 Contributors: BeyondPrograms
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@beprosoftware.com&item_name=Donation+for+BePro+Listings
-Tags: agency, agent, apartment,broker, bepro listings, condo, directory, google, house, home, map,  mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, sale, search, sell, showcase
+Tags: agency, agent, apartment,broker, bepro listings, condo, csv, directory, google, house, home, map,  mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, sale, search, sell, showcase, upload
 Requires at least: 3.0.1
 Tested up to: 3.9
 Stable tag: 1.0.21
@@ -30,6 +30,7 @@ You get all of the great features packaged with BePro Listings. In addition, thi
 	1.Show # of rooms, # of bathrooms, # of parking spots and more
 	2.Show Status (sold, Sublet, for rent, for sale)
 	3.Easily edit this information from the admin
+	4.CSV Upload
 
 This effectively makes the listings experience focused on Real Estate information. Remember, since BePro Listings already features, cost, categories, featured listings and other data points, you have everything needed to professionally present your **property** inventory.
 
