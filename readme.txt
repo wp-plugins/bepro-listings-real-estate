@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@
 Tags: agency, agent, apartment,broker, bepro listings, condo, directory, google, house, home, map,  mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, sale, search, sell, showcase
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 1.0.2
+Stable tag: 1.0.21
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -96,6 +96,9 @@ yes on our website
 
 == Changelog ==
 
+1.0.21 (Aug 16th, 2014)
+
+* Fix issue with saving number of bathrooms info
 
 == Upgrade Notice ==
 

@@ -4,7 +4,7 @@ Plugin Name: BePro Listings Real Estate
 Plugin Script: bepro_listings_realestate.php
 Plugin URI: http://www.beprosoftware.com/shop
 Description: Everything needed to create a Realestate site. Requires BePro Listings
-Version: 1.0.2
+Version: 1.0.21
 License: Commercial
 Author: BePro Software Team
 Author URI: http://www.beprosoftware.com
@@ -219,7 +219,7 @@ class Bepro_listings_realestate{
 			
 			$wpdb->query("UPDATE ".BEPRO_LISTINGS_REALESTATE_TABLE." SET $query_args WHERE post_id = ".$post["post_id"]);
 		}else{
-			$wpdb->query("INSERT INTO ".BEPRO_LISTINGS_REALESTATE_TABLE." (post_id, num_rooms, num_baths, num_floors, num_parking, status, sq_ft, owner) VALUES(".$post["post_id"].", '".$new_info["num_rooms"]."','".$new_info["num_bath"]."', '".$new_info["num_floors"]."', '".$new_info["num_parking"]."', '".$new_info["status"]."', '".$new_info["sq_ft"]."', '".$new_info["owner"]."')");
+			$wpdb->query("INSERT INTO ".BEPRO_LISTINGS_REALESTATE_TABLE." (post_id, num_rooms, num_baths, num_floors, num_parking, status, sq_ft, owner) VALUES(".$post["post_id"].", '".$new_info["num_rooms"]."','".$new_info["num_baths"]."', '".$new_info["num_floors"]."', '".$new_info["num_parking"]."', '".$new_info["status"]."', '".$new_info["sq_ft"]."', '".$new_info["owner"]."')");
 		}	
 	}
 	
