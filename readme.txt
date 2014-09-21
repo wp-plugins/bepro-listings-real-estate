@@ -3,7 +3,7 @@ Contributors: BeyondPrograms
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@beprosoftware.com&item_name=Donation+for+BePro+Listings
 Tags: agency, agent, apartment,broker, bepro listings, condo, csv, directory, google, house, home, map,  mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, sale, search, sell, showcase, upload
 Requires at least: 3.0.1
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 1.0.21
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -12,6 +12,10 @@ Real Estate Directory for apartments, houses, or other property. Requires BePro 
 
 == Description ==
 This is an addon for "BePro Listings". Its sole purpose is to introduce **Real Estate** property details to listings. It builds upon the already provided BePro Lisitngs foundation which includes, Google Maps, ajax search filter, **Galleries**, paid listings and front end upload. This combination guarantees a Realestate focused directory listings experience for your customers, allowing you and your **Real Estate agents** to manage and feature your inventory.
+
+= Real Estate Demo =
+
+- [Click here](http://beprothemes.com/realestate/) to view Demo 1
 
 Download and install BePro Listings which is 100% FREE. 
 
