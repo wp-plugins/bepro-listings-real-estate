@@ -13,13 +13,8 @@ Real Estate Directory for apartments, houses, or other property. Requires BePro 
 == Description ==
 This is an addon for "BePro Listings". Its sole purpose is to introduce **Real Estate** property details to listings. It builds upon the already provided BePro Lisitngs foundation which includes, Google Maps, ajax search filter, **Galleries**, paid listings and front end upload. This combination guarantees a Realestate focused directory listings experience for your customers, allowing you and your **Real Estate agents** to manage and feature your inventory.
 
-= Real Estate Demo =
-
-- [Click here](http://beprothemes.com/realestate/) to view Demo 1
-
-Download and install BePro Listings which is 100% FREE. 
-
-- http://wordpress.org/plugins/bepro-listings/
+- Real Estate Demo. [Click here](http://beprothemes.com/realestate/) to view Demo 1
+- Download and install BePro Listings which is 100% FREE here on [wordpress.org](http://wordpress.org/plugins/bepro-listings/)
 
 [BePro Listings Realestate](http://www.beprosoftware.com/shop/bepro-listings-realestate/) | [Support Forum](http://beprosoftware.com/forums/) | [Documentation & Add Ons](http://beprosoftware.com/products/bepro-listings/)
 
