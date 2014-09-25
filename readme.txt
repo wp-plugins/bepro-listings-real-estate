@@ -1,7 +1,7 @@
 === BePro Listings Real Estate ===
 Contributors: BeyondPrograms
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@beprosoftware.com&item_name=Donation+for+BePro+Listings
-Tags: agency, agent, apartment,broker, bepro listings, condo, csv, directory, google, house, home, map,  mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, sale, search, sell, showcase, upload
+Tags: agency, agent, apartment,broker, bepro listings, condo, csv, directory, form builder, google, house, home, map,  mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, sale, search, sell, showcase, upload
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.0.21
@@ -24,14 +24,14 @@ This is an addon for "BePro Listings". Its sole purpose is to introduce **Real E
 
 = WHAT YOU GET =
 
-You get all of the great features packaged with BePro Listings. In addition, this specific addon, allows you to also manage Real Estate specific information:
+With this basic free addon, You get all of the great features packaged with BePro Listings. In addition, this specific addon, allows you to also manage Real Estate specific information:
 
 	1.Show # of rooms, # of bathrooms, # of parking spots and more
 	2.Show Status (sold, Sublet, for rent, for sale)
 	3.Easily edit this information from the admin
 	4.CSV Upload
 
-This effectively makes the listings experience focused on Real Estate information. Remember, since BePro Listings already features, cost, categories, featured listings and other data points, you have everything needed to professionally present your **property** inventory.
+This effectively makes the listings experience focused on Real Estate information. Remember, since BePro Listings already features, cost, categories, featured listings and other data points, you have everything needed to professionally present your **property inventory**.
 
 = WHAT YOU DONT GET =
 
@@ -39,11 +39,17 @@ There are **no montly fees** with this setup. There is also **no MLS**, **RETS**
 
 This is a major difference that sets us apart from other Real Estate directory plugins. Neither BePro Listings or any of its addons require a monthly fee from you. Our team believes that there is a large population of users who need standalone solutions like ours and we will continue to support that market.
 
+Also note that there are no admin configuration menu's for this free addon. However, you can edit user submissions from the admin, like you would with any other BePro Listings submission
+
 = HOW IT WORKS =
 
 BePro Listings has a growing list of over 18 addons. Its designed to simulate any directory. Plugins like this Real Estate focused addon, tie into various BePro Listings features. The resulting integration is seamless and guarantees a realestate focused listings experience. 
 
 Once you install this addon, realestate property details are displayed on the item page. Manage the Real Estate details form the edit listing admin page. Items with no value are labelled as N/A on the front end. 
+
+= THE DIFFERENCE =
+
+BePro Listings is the most powerful directory plugin available for wordpress. Ever since the release of our [Form Builder](www.beprosoftware.com/shop/bepro-listings-form-builder/) addon, there is no limitation to the amount of information you can show on listings. No other Real Estate directory solution can offer this flexibility.
 
 = UPGRADES =
 
@@ -54,13 +60,14 @@ There is an upgrade for this plugin on our website. With the upgrade, you are ab
 	3. Allow users and agents to submit and manage their own listings from the front end
 	4. [Origami Compatible](http://www.beprosoftware.com/shop/origami/)
 	5. Details on listings (#beds & #bath)
+	6. Form Builder integration providing searchable real estate details
 
 Remember that this solution works with all of the BePro Listings addons. We especially recommend the following addons for a **Real Estate** setup
 
 	1. Contact - Show a contact form on every listing page
 	2. Authors - Show details for the author/ Real Estate agent
 	3. Bookings - Allow users to setup appointments
-	4. Origami - Manage multiple directories on one website
+	4. Tags - Highlight details regarding listings and allow users to search by them via tag cloud
 
 == Installation ==
 
@@ -80,6 +87,10 @@ yes
 
 yes
 
+= How do i add custom data to listings? =
+
+We have a tags addon and a Form Builder addon. 
+
 = Can I use other BePro Listings shortcodes? =
 
 yes
@@ -90,9 +101,9 @@ yes on our website
 
 == Screenshots ==
 
-1. Real Estate details on Listing page
-2. Edit Real Estate details in admin
-
+1. Paid Real Estate Addon example
+2. Edit Real Estate details in admin (FREE)
+3. Real Estate details on Listing page (FREE)
 
 == Changelog ==
 
