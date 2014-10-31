@@ -1,7 +1,7 @@
 === BePro Listings Real Estate ===
 Contributors: BeyondPrograms
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@beprosoftware.com&item_name=Donation+for+BePro+Listings
-Tags: agency, agent, apartment, broker, bepro listings, condo, csv, directory, estate, form builder, google maps, house, home, listings, mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, real estate directory, real estate listings, real estate plugin, sale, search, sell, showcase, upload, wordpress property, wordpress real estate directory
+Tags: agent, apartment, bepro listings, condo, directory, estate, for sale, google maps, house, home, listings, mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, real estate directory, real estate listings, real estate plugin, sale, search, sell, showcase, upload, wordpress property, wordpress real estate directory, wordpress real estate, wordpress real estate plugin
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 1.0.21
