@@ -68,6 +68,7 @@ Remember that this solution works with all of the BePro Listings addons. We espe
 	2. Authors - Show details for the author/ Real Estate agent
 	3. Bookings - Allow users to setup appointments
 	4. Tags - Highlight details regarding listings and allow users to search by them via tag cloud
+	5. Claim - Allow listing owners to claim their own listing. Great way to monetize
 
 == Installation ==
 
