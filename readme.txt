@@ -58,9 +58,8 @@ There is an upgrade for this plugin on our website. With the upgrade, you are ab
 	1. Search & filter listings by Real Estate criteria
 	2. Visible banner for sold listings
 	3. Allow users and agents to submit and manage their own listings from the front end
-	4. [Origami Compatible](http://www.beprosoftware.com/shop/origami/)
-	5. Details on listings (#beds & #bath)
-	6. Form Builder integration providing searchable real estate details
+	4. Details on listings (#beds, Sq Ft & #bath)
+	5. Form Builder integration providing searchable real estate details
 
 Remember that this solution works with all of the BePro Listings addons. We especially recommend the following addons for a **Real Estate** setup
 
