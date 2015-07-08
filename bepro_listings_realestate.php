@@ -4,7 +4,7 @@ Plugin Name: BePro Listings Real Estate
 Plugin Script: bepro_listings_realestate.php
 Plugin URI: http://www.beprosoftware.com/shop
 Description: Everything needed to create a Realestate site. Requires BePro Listings
-Version: 1.0.21
+Version: 1.0.22
 License: Commercial
 Author: BePro Software Team
 Author URI: http://www.beprosoftware.com
@@ -62,15 +62,17 @@ class Bepro_listings_realestate{
 	//activate
 	function bepro_listings_realestate_activate() {
 		global $wpdb;  
-		
+		ob_start();
 		if (function_exists('is_multisite') && is_multisite()){ 
-			$blogids = $wpdb->get_col($wpdb->prepare("SELECT blog_id FROM $wpdb->blogs"));
+			$blogids = $wpdb->get_col("SELECT blog_id FROM $wpdb->blogs");
 			foreach($blogids as $blogid_x){
 				Bepro_listings_realestate::bepro_listings_realestate_install_table($blogid_x);
 			}
 		}else{
 			Bepro_listings_realestate::bepro_listings_realestate_install_table();
 		}
+		$value = ob_get_contents();
+		ob_end_clean();
 	}
 	
 	//Setup database for multisite

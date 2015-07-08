@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=support@
 Tags: agent, apartment, bepro listings, condo, directory, estate, for sale, google maps, house, home, listings, mortgage, plugin, property, properties, rent, realty, realtor, realestate, real estate, real estate directory, real estate listings, real estate plugin, sale, search, sell, showcase, upload, wordpress property, wordpress real estate directory, wordpress real estate, wordpress real estate plugin
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0.21
+Stable tag: 1.0.22
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -106,6 +106,10 @@ yes on our website
 3. Real Estate details on Listing page (FREE)
 
 == Changelog ==
+
+1.0.22 (Jul 8th, 2015)
+
+* Fix activation issue
 
 1.0.21 (Aug 16th, 2014)
 
